@@ -5,7 +5,7 @@ Simple Notes App made with NodeJS
 * chalk
 * validator
 * yargs
-#### To install dependencies
+### To install dependencies
 ```bash
 npm install
 ```
